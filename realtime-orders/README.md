@@ -4,9 +4,9 @@ An enterprise-grade, event-driven dashboard that streams database changes direct
 
 ## 📸 Dashboard Preview
 
-> **Note to developer:** Please place your frontend screenshot in an `assets` folder named `frontend-preview.png` and it will appear here!
+![OrderPulse Dashboard - Light Mode](./client/assets/frontend1.png)
 
-![OrderPulse Dashboard](./assets/frontend-preview.png)
+![OrderPulse Dashboard - Real-Time Logs](./client/assets/frontend2.png)
 
 ## 🧠 The Problem & Our Solution
 
